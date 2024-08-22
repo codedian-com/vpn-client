@@ -6,23 +6,19 @@
 
 以下是部分截图，详情请看项目中的截图：
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![截图](/app1.jpg "app")
+![截图](/app2.jpg "app")
+![截图](/app3.jpg "app")
+![截图](/app4.jpg "app")
+![截图](/app5.jpg "app")
+![截图](/winpc1.png "pc")
+![截图](/winpc2.png "pc")
+![截图](/winpc3.png "pc")
+![截图](/winpc4.png "pc")
+![截图](/winpc5.png "pc")
+![截图](/winpc6.png "pc")
+![截图](/winpc7.png "pc")
+![截图](/winpc8.png "pc")
 
 **tg ：@qudacloud**
 [@qudacloud](https://t.me/qudacloud)
