@@ -1,6 +1,9 @@
 # vpn-client 搭建和源码提供
 最新版本vpn客户端 兼容v2board和Xboard面板 集合了clashx内核 兼容v2ray SingBox 以及hiddify客户端 源码提供
-包含ios Android mac windows Linux 客户端源代码，兼容 v2b以及xboard  后台和客户端都多语言
+包含ios Android mac windows Linux 客户端源代码，兼容 v2b以及xboard 后台和客户端都多语言支持。
+
+现在行业这么卷，一元机场甚至免费福利机场一大片，咱们既然想自己运营客户端，新的变现模式是必须的，你看我下面这款。
+客户端里完美兼容html网页展示，广告位随便定制。真正做到免费机场，让您广告收益远超机场收入。卷死那些一元机场。
 
 **tg ：[@qudacloud](https://t.me/qudacloud)   /   [@tg关注频道](https://t.me/qudavp)
 
