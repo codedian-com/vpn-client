@@ -28,4 +28,4 @@
 
 **tg ：@qudacloud**
 [@qudacloud](https://t.me/qudacloud)
-[@tg关注频道](https://t.me/qudavp)
+[@tg关注频道](https://t.me/vpn_update)
