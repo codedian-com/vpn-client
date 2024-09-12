@@ -5,7 +5,7 @@
 现在行业这么卷，一元机场甚至免费福利机场一大片，咱们既然想自己运营客户端，新的变现模式是必须的，你看我下面这款。
 客户端里完美兼容html网页展示，广告位随便定制。真正做到免费机场，让您广告收益远超机场收入。卷死那些一元机场。
 
-**tg ：[@qudacloud](https://t.me/qudacloud)   /   [@tg关注频道](https://t.me/qudavp)
+**tg ：[@qudacloud](https://t.me/qudacloud)   /   [@tg关注频道](https://t.me/vpn_update)
 
 以下是部分截图，详情请看项目中的截图：
 
